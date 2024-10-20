@@ -1,0 +1,59 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.vspscc
+*.vssscc
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+# The packages folder can be ignored because of NuGet restore.
+**/packages/*
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/build/
+#!**/packages/repositories.config
+
+# Visual Studio files
+.vscode/
+.vs/
+.vscode/
+.vscode/*
+.vs/*
+launchSettings.json
+
+# Resharper files
+_ReSharper.Caches/
+
+# MSBuild binary log
+*.binlog
+
+# Publish Web Output
+app.publish/
+
+# SQL Server Files
+*.mdf
+*.ldf
+
+# IIS
+/.vs/config/applicationhost.config
+
+# Rider project files
+.idea/
+
+# Log files
+*.log
+
+# Web.config Transformations
+web.*.config
